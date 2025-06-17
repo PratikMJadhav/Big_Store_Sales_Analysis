@@ -7,7 +7,7 @@ To analyze sales performance across various regions, categories, segments, and t
 
 ## Dataset :
 <a
-"https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales%20DataSet.xlsx.xlsx" >Dataset</a
+href="https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales%20DataSet.xlsx.xlsx" >Dataset</a
 
 ## 📌 Recommended KPIs to Track
 KPI Name &	Value	Why it Matters
@@ -54,15 +54,13 @@ Map shows highest activity on the West Coast and major cities — potential to g
 
 ## Dashboard :
 <a
-"https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales_Dashboard%20.jpg"
->Dashboard</a
+href="https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales_Dashboard%20.jpg">Dashboard</a
 
 ## 📄 Executive Summary
 Big Store Sale Box Dashboard
-Reporting Period: whole year
-Prepared for: Presentation 
+Prepared for: Practice Analysis 
 Prepared by: Pratik Jadhav
---
+
 
 ## 🧠 Strategic Recommendations
 • Focus on profitability: Boost low-margin months (like December) with better product mix or pricing strategy.
