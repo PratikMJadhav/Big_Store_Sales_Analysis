@@ -1,15 +1,15 @@
 
 
-#📊 Project Objective: Big_Store_Sales ( Dashboard creation with using Powerbi)
+# 📊 Project Objective: Big_Store_Sales ( Dashboard creation with using Powerbi)
 
-##🎯 Objective:
+## 🎯 Objective:
 To analyze sales performance across various regions, categories, segments, and time periods in order to identify growth opportunities, high-performing areas, and operational efficiencies.
 
 ## Dataset :
 <a
-"https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales%20DataSet.xlsx.xlsx ">Dataset</a
+"https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales%20DataSet.xlsx.xlsx" >Dataset</a
 
-##📌 Recommended KPIs to Track
+## 📌 Recommended KPIs to Track
 KPI Name &	Value	Why it Matters
 • Total Sales	88.37K	Overall business volume
 •Total Profit	15.44K	Measure of financial success
@@ -22,7 +22,7 @@ Highest Profit Month	March (7.4K)	Temporal profitability focus
 Lowest Margin Month	December	Discounting impact
 COD % of Payments	49.32%	Risk & operational cost indicator
 
-##🔑 Key Insights
+## 🔑 Key Insights
 1. Top Performing Region
 - West is dominating sales with 63.81% of total sales, followed by East (20.2%).
 - Central and South regions contribute very little — an opportunity to improve market penetration or revisit sales strategy.
@@ -52,18 +52,19 @@ Total Delivery Days: 88, with 1.0 avg. delivery day — implies very fast shippi
 8. Geographical Focus
 Map shows highest activity on the West Coast and major cities — potential to grow in underperforming states (e.g., Central U.S.).
 
-##Dashboard :
+## Dashboard :
 <a
-"https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales_Dashboard%20.jpg" >Dashboard</a
+"https://github.com/PratikMJadhav/Big_Store_Sales_Analysis/blob/main/Big_Store_Sales_Dashboard%20.jpg"
+>Dashboard</a
 
-##📄 Executive Summary
+## 📄 Executive Summary
 Big Store Sale Box Dashboard
 Reporting Period: whole year
 Prepared for: Presentation 
 Prepared by: Pratik Jadhav
 --
 
-##🧠 Strategic Recommendations
+## 🧠 Strategic Recommendations
 • Focus on profitability: Boost low-margin months (like December) with better product mix or pricing strategy.
 
 • Grow underperforming regions: Target Central and South with geo-specific campaigns.
